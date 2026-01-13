@@ -24,7 +24,7 @@ export const InfoSection = () => {
 			/>
 			<p>Hi, I am</p>
 			<TextHover
-				text='SATYAM YADAV'
+				text='SATYAM'
 				className='name'
 			/>
 			<p>Writer / Author</p>
