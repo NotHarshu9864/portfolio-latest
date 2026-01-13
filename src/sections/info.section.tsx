@@ -24,10 +24,10 @@ export const InfoSection = () => {
 			/>
 			<p>Hi, I am</p>
 			<TextHover
-				text='ABDULLAH'
+				text='SATYAM YADAV'
 				className='name'
 			/>
-			<p>Full Stack Developer</p>
+			<p>Writer / Author</p>
 			<FloatingButton
 				label='Tech'
 				className='sec'
@@ -37,7 +37,7 @@ export const InfoSection = () => {
 			<div className='blur'></div>
 			<div className='bottom-bar'>
 				<GlowLink
-					href='https://github.com/Abdullahiqbal2021'
+					href='https://github.com/notharshu9864'
 					color='rgba(255, 255, 255, 0.4)'
 					icon={<FaGithub color='rgba(255, 255, 255,0.9)' />}
 					aria-label='github'
