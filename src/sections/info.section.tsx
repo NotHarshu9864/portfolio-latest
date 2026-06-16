@@ -9,12 +9,12 @@ export const InfoSection = () => {
 	return (
 		<div className='hero-section'>
 			<a
-				href='https://github.com/Abdullahiqbal2021/portfolio-latest'
+				href='https://github.com/NotHarshu9864'
 				target='_blank'
 				rel='noopener noreferrer'
 				className='github-ribbon'
 			>
-				<div>⭐ Star this repo</div>
+				<div>⭐ Visit Github</div>
 				<span></span>
 			</a>
 			<FloatingButton
@@ -24,10 +24,10 @@ export const InfoSection = () => {
 			/>
 			<p>Hi, I am</p>
 			<TextHover
-				text='SATYAM'
+				text='Krishna'
 				className='name'
 			/>
-			<p>Writer / Author</p>
+			<p>Developer / Exchanger</p>
 			<FloatingButton
 				label='Tech'
 				className='sec'
@@ -43,13 +43,13 @@ export const InfoSection = () => {
 					aria-label='github'
 				/>
 				<GlowLink
-					href='https://www.linkedin.com/in/muhammad-abdullah-iqbal/'
+					href='https://www.linkedin.com/in/notharshu9864/'
 					color='rgb(0, 160, 220, 0.6)'
 					icon={<FaLinkedinIn color='rgb(0, 160, 220)' />}
 					aria-label='linkedin'
 				/>
 				<GlowLink
-					href='mailto:muhammadabdullahiqbal2021@gmail.com'
+					href='mailto:cloud.krishna.v1@gmail.com'
 					icon={<IoMailOutline color='rgb(18, 122, 209)' />}
 					color=' rgb(18, 122, 209,0.7)'
 					aria-label='mail'
