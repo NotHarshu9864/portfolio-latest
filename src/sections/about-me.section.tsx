@@ -5,15 +5,15 @@ const timeline = [
 		title: 'Experience',
 		items: [
 			{
-				title: 'Writer',
-				place: '@Wimetrix',
-				timePeriod: '2022 - Present',
+				title: 'Developer',
+				place: '@Quicktoppers',
+				timePeriod: '2020 - Present',
 				description: (
 					<ul>
 						<li>
-							Contributed significantly to the development of main project{' '}
-							<strong>Sooperwizer</strong>, a pivotal project for automating and
-							optimizing textile processes.
+							Contributed significantly to the development of main project{''}
+							<strong>QuickToppers</strong>, a pivotal project for education and
+							increasing exam progreaa.
 						</li>
 						<li>
 							Designed and developed multiple interactive data visualization
@@ -29,18 +29,17 @@ const timeline = [
 		title: 'Certification',
 		items: [
 			{
-				title: 'Writer',
-				place: 'House of Professionals (HOP)',
-				timePeriod: '2021 - 2022',
+				title: 'Developer',
+				place: 'QuickToppers',
+				timePeriod: '2020 - Present',
 				description: (
 					<ul>
 						<li>
-							Earned a Writing certification from the House of
-							Professional Writers.
+							Earned a Security certification from the ScammerAlert.
 						</li>
 						<li>
-							Awarded for securing the top position in class, demonstrating
-							strong skills and commitment.
+							Awarded for securing the top position in ScammerAlert, Moderating servers 
+							and punishing 1500+ scammers
 						</li>
 					</ul>
 				),
@@ -51,9 +50,9 @@ const timeline = [
 		title: 'Education',
 		items: [
 			{
-				title: 'CLASS 9TH',
-				place: 'RDRK PUBLIC SCHOOL',
-				timePeriod: '2025 - Present',
+				title: 'CLASS 10TH',
+				place: 'GST GLOBAL SCHOOL',
+				timePeriod: '2017 - Present',
 				description: '',
 			},
 		],
@@ -75,7 +74,7 @@ export const AboutMe = () => {
 			<div>
 				<div className='intro'>
 					<p style={{ marginTop: '20px' }}>
-						👋 Hey, I'm Satyam Yadav, a 
+						👋 Hey, I'm Krishna, a Full Stack Developer. 
 					</p>
 					<p>
 						I've been working with <strong>React</strong> and{' '}
